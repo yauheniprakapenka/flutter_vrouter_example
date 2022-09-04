@@ -1,0 +1,62 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "vrouter_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "vrouter_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "vrouter_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "navigation",
+            "cwd": "navigation",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "navigation (profile mode)",
+            "cwd": "navigation",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "navigation (release mode)",
+            "cwd": "navigation",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "catalog",
+            "cwd": "features/catalog",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "catalog (profile mode)",
+            "cwd": "features/catalog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "catalog (release mode)",
+            "cwd": "features/catalog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

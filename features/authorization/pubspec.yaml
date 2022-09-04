@@ -1,0 +1,15 @@
+name: authorization
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  navigation:
+    path: ../../navigation
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  dart_code_metrics: ^4.15.2
